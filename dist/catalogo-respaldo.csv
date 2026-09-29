@@ -1,0 +1,66 @@
+categoría,nombre,descripción,opciones/tamaños,precio,stock,foto,observaciones
+Rolls de la casa con arroz,Tori Toribio,"Pollo furay, palta y cebollín; cobertura de queso brûlée, mayo japo y notas de pesto.",,"$10,000",sí,,
+Rolls de la casa con arroz,Dodo Roll,"Pollo teriyaki, queso crema y palta; envuelto en banana.",,"$9,500",sí,,
+Rolls de la casa con arroz,Camarón y Mango Roll,"Camarón furay, mango y queso crema; cobertura de palta y tartar de atún.",,"$10,000",sí,,
+Rolls de la casa con arroz,Acevichado Roll,"Camarón, kanikama furay y queso crema; cobertura de palta, topping de ceviche y salsa acevichada.",,"$12,000",sí,,
+Rolls de la casa con arroz,Salmón Roll,"Salmón, queso crema, cebollín y palta; cobertura a elección.",Cobertura a elección,"$11,000",sí,,Confirmar cuáles coberturas incluye el precio; carta no las especifica aquí.
+Rolls de la casa con arroz,Jahuel Roll,"Atún rojo y camarón furay; envuelto en arcoíris de palta y salmón, con tartar de jaiba.",,"$12,000",sí,,
+Rolls de la casa con arroz,Tanaka Roll,"Salmón, palta y cebollín; cobertura de queso crema y topping de camarón, salsa acevichada y masago.",,"$12,000",sí,,
+Rolls de la casa con arroz,Roll Vegetariano,"Queso crema, verduras tempura y cebollín; cobertura de palta y tartar de palmito.",,"$10,000",sí,,
+Rolls sin arroz,Relleno Do,"Salmón, camarón furay, palta, queso crema y cebollín; cobertura de palta y topping de pulpo al olivo.",,"$13,000",sí,,
+Rolls sin arroz,Relleno Re,"Pollo furay, palta, queso crema y pimentón; cobertura de plátano frito.",,"$10,000",sí,,
+Rolls sin arroz,Relleno Mi,"Atún fresco, salmón, jaiba, palta y cebollín; cobertura de queso y furikake.",,"$14,000",sí,,
+Rolls sin arroz,Relleno Fa,"Camarón furay, queso crema, pimentón y palta; cobertura de mango.",,"$12,000",sí,,
+Ceviches,Ceviche del día,"Salmón, camarón, palta, calamar, pimentón, cilantro, cebolla morada y leche de tigre.",,"$12,990",sí,,
+Ceviches,Ceviche mixto,"Atún rojo, camarón, salmón, calamar, palta, pimentón, cilantro, cebolla morada y leche de tigre.",,"$15,990",sí,,
+Gohan,Gohan vegetariano,"Base de arroz, palta, queso crema, tomate cherry y cebollín. Incluye un palito, una soya y una teriyaki. Champiñón y palmito.",,"$8,000",sí,,
+Gohan,Gohan de pollo,"Base de arroz, palta, queso crema, tomate cherry y cebollín. Incluye un palito, una soya y una teriyaki.",Pollo furay / pollo teriyaki,"$8,500",sí,,
+Gohan,Gohan de camarón,"Base de arroz, palta, queso crema, tomate cherry y cebollín. Incluye un palito, una soya y una teriyaki.",Camarón cocido / camarón furay,"$9,000",sí,,
+Gohan,Gohan de salmón y camarón furay,"Base de arroz, palta, queso crema, tomate cherry y cebollín. Incluye un palito, una soya y una teriyaki.",,"$10,000",sí,,
+Gohan,Gohan de pulpo y salmón,"Base de arroz, palta, queso crema, tomate cherry y cebollín. Incluye un palito, una soya y una teriyaki.",,"$11,000",sí,,
+Gyozas,Gyozas 6 unidades,Gyozas con relleno a elección.,Pollo / camarón / cerdo / vegetariano,"$5,500",sí,,
+Gyozas,Gyozas 8 unidades,Gyozas con relleno a elección.,Pollo / camarón / cerdo / vegetariano,"$6,500",sí,,
+Gyozas,Gyozas 12 unidades,Gyozas con relleno a elección.,Pollo / camarón / cerdo / vegetariano,"$10,000",sí,,
+Extras,Tempurizar gyozas,Adicional para una porción de gyozas.,Se agrega a gyozas,"$2,000",sí,,
+Tablas Dodo,Tabla Dodo,"30 cortes: carne/sésamo, pollo/panko y camarón/palta. Incluye soya y teriyaki. No admite cambios.",,"$18,000",sí,,
+Tablas Dodo,Tabla Miraflores,"50 cortes: 2 pollo/panko, 1 carne/panko, 1 camarón/panko y 1 kanikama/panko. Incluye soya y teriyaki. No admite cambios.",,"$23,000",sí,,
+Tablas Dodo,Tabla Jumbo,"70 cortes: pollo/panko, pollo/palta, carne/panko, carne/queso, camarón/ciboulette, camarón/salmón, palmito/sésamo y 8 gyozas de la casa. Incluye soya y teriyaki. No admite cambios.",,"$39,000",sí,,
+Tablas a elección,Tabla 1,"10 cortes. Incluye 3 salsas de soya, 2 teriyaki y palitos. Rellenos: pollo / carne / camarón / palmito / kanikama / vegetariano. Una cobertura por roll, con costo aparte; indicar selección al pedir.",10 cortes; rellenos a elección,"$10,000",sí,,Las coberturas se cobran por roll; confirmar cantidad de cada relleno al pedir.
+Tablas a elección,Tabla 2,"20 cortes. Incluye 3 salsas de soya, 2 teriyaki y palitos. Rellenos: pollo / carne / camarón / palmito / kanikama / vegetariano. Una cobertura por roll, con costo aparte; indicar selección al pedir.",20 cortes; rellenos a elección,"$12,000",sí,,Las coberturas se cobran por roll; confirmar cantidad de cada relleno al pedir.
+Tablas a elección,Tabla 3,"30 cortes. Incluye 3 salsas de soya, 2 teriyaki y palitos. Rellenos: pollo / carne / camarón / palmito / kanikama / vegetariano. Una cobertura por roll, con costo aparte; indicar selección al pedir.",30 cortes; rellenos a elección,"$16,500",sí,,Las coberturas se cobran por roll; confirmar cantidad de cada relleno al pedir.
+Tablas a elección,Tabla 4,"40 cortes. Incluye 3 salsas de soya, 2 teriyaki y palitos. Rellenos: pollo / carne / camarón / palmito / kanikama / vegetariano. Una cobertura por roll, con costo aparte; indicar selección al pedir.",40 cortes; rellenos a elección,"$20,000",sí,,Las coberturas se cobran por roll; confirmar cantidad de cada relleno al pedir.
+Tablas a elección,Tabla 5,"50 cortes. Incluye 3 salsas de soya, 2 teriyaki y palitos. Rellenos: pollo / carne / camarón / palmito / kanikama / vegetariano. Una cobertura por roll, con costo aparte; indicar selección al pedir.",50 cortes; rellenos a elección,"$22,500",sí,,Las coberturas se cobran por roll; confirmar cantidad de cada relleno al pedir.
+Hand roll,Hand roll,Relleno a elección entre los rellenos de tablas.,Pollo / carne / camarón / palmito / kanikama / vegetariano,"$5,000",sí,,
+Coberturas para tablas,Cobertura Sésamo,Precio por roll de tabla a elección.,Por roll,$0,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Chía,Precio por roll de tabla a elección.,Por roll,$0,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Coco-merkén,Precio por roll de tabla a elección.,Por roll,$0,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Pepino,Precio por roll de tabla a elección.,Por roll,$500,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Nori,Precio por roll de tabla a elección.,Por roll,$500,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Ciboulette,Precio por roll de tabla a elección.,Por roll,$500,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Panko,Precio por roll de tabla a elección.,Por roll,$800,sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Queso crema,Precio por roll de tabla a elección.,Por roll,"$1,500",sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Palta,Precio por roll de tabla a elección.,Por roll,"$1,500",sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Mango,Precio por roll de tabla a elección.,Por roll,"$1,500",sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Salmón,Precio por roll de tabla a elección.,Por roll,"$2,000",sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Atún,Precio por roll de tabla a elección.,Por roll,"$2,500",sí,,Adicional de tabla; no vender por separado.
+Coberturas para tablas,Cobertura Arcoíris de palta y salmón,Precio por roll de tabla a elección.,Por roll,"$2,500",sí,,Adicional de tabla; no vender por separado.
+Para compartir,Rollitos primavera,10 unidades.,,"$10,000",sí,,
+Para compartir,Bastones de pollo,Docena.,,"$10,500",sí,,
+Para compartir,Camarón furay 8 unidades,8 unidades.,,"$7,000",sí,,
+Para compartir,Camarón furay 15 unidades,15 unidades.,,"$10,500",sí,,
+Para compartir,Aros de cebolla,10 unidades.,,"$3,500",sí,,
+Para compartir,Empanadas de queso,12 unidades.,,"$5,000",sí,,
+Para compartir,Nuggets de pollo,12 unidades.,,"$4,500",sí,,
+Para compartir,Papas fritas pequeñas,250 g.,,"$3,500",sí,,
+Para compartir,Papas fritas grandes,500 g.,,"$5,500",sí,,
+Bebestibles,Té,,,"$1,800",sí,,
+Bebestibles,Café pequeño,,,"$2,000",sí,,
+Bebestibles,Café grande,,,"$2,500",sí,,
+Bebestibles,Bebida 350 cc,,,"$2,500",sí,,
+Bebestibles,Agua mineral,,,"$1,800",sí,,
+Bebestibles,Jugo de fruta,,,"$3,500",sí,,
+Bebestibles,Limonada clásica,,,"$3,500",sí,,
+Bebestibles,Limonada menta-jengibre,,,"$3,800",sí,,
+Extras,Salsa extra,Soya o teriyaki. El cambio de salsa no se cobra.,Soya / teriyaki,$500,sí,,
+Extras,Ayuda palitos,,,"$1,000",sí,,
+Extras,Roll sin nori,Papel de arroz en lugar de nori.,Adicional para roll,$500,sí,,

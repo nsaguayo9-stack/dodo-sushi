@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#111513">
+  <meta name="description" content="Dodo Sushi & Bar San Felipe. Explora nuestra carta y arma tu pedido por WhatsApp.">
+  <title>Dodo Sushi & Bar | San Felipe</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="preconnect" href="https://docs.google.com">
+  <link rel="stylesheet" href="/src/styles.css">
+  <script type="module" src="/src/app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Dodo Sushi, inicio"><img src="/images/logo.png" alt="Dodo Sushi & Bar San Felipe"></a>
+    <nav class="desktop-nav" aria-label="Principal"><a href="#carta">La carta</a><a href="#nosotros">Dodo</a><a href="#ubicacion">Ubicación</a></nav>
+    <button class="cart-trigger" id="cart-trigger" type="button" aria-label="Abrir carrito"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h2l2 11h11l2-8H6M9 20h.01M18 20h.01"/></svg><span>Tu pedido</span><b id="cart-count">0</b></button>
+  </header>
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero-copy"><span class="eyebrow"><span class="eyebrow-line"></span> SUSHI & BAR · SAN FELIPE</span><h1>Tu antojo<br><em>tiene nombre.</em></h1><p>Rolls, tablas y sabores para compartir. Explora la carta y arma tu pedido a tu manera.</p><div class="hero-actions"><a class="button primary" href="#carta">Explorar la carta <span aria-hidden="true">↗</span></a><a class="text-link" href="#nosotros">Conoce Dodo <span aria-hidden="true">↓</span></a></div><div class="hero-foot"><span>HECHO PARA COMPARTIR</span><span>01 / DODO</span></div></div>
+      <div class="hero-image"><img src="/images/sushi-color.jpg" alt="Variedad de sushi de Dodo sobre una tabla de madera"><span class="photo-label">DODO SUSHI & BAR <i></i> SAN FELIPE</span><div class="hero-stamp" aria-hidden="true"><span>FRESCO</span><span>· DODO ·</span><span>SIEMPRE</span></div></div>
+    </section>
+    <div class="ticker" aria-hidden="true"><div>ROLLS <span>·</span> TABLAS <span>·</span> GOHAN <span>·</span> CEVICHES <span>·</span> ROLLS <span>·</span> TABLAS <span>·</span> GOHAN <span>·</span> CEVICHES <span>·</span></div></div>
+    <section class="intro" id="nosotros"><div><span class="eyebrow">EL ESPÍRITU DODO</span><h2>Buenos momentos,<br><em>mejores rolls.</em></h2></div><div class="intro-right"><p>Desde un roll para ti hasta una tabla para todos. Elige tus favoritos, revisa el total y envíanos tu pedido directo por WhatsApp.</p><a href="#carta" class="under-link">Encuentra tu favorito <span aria-hidden="true">↗</span></a></div></section>
+    <section class="feature"><div class="feature-photo"><img src="/images/tabla-color.jpg" alt="Tabla de sushi colorido de Dodo"></div><div class="feature-copy"><span class="eyebrow">PARA COMPARTIR</span><h2>Siempre hay<br><em>espacio para uno más.</em></h2><p>Tablas listas para compartir y opciones para armar a tu gusto. Las coberturas y sus precios se actualizan desde nuestra carta.</p><a class="button light" href="#carta">Ver tablas <span aria-hidden="true">↗</span></a><span class="feature-no">02 / LA EXPERIENCIA</span></div></section>
+    <section class="menu-section" id="carta"><div class="menu-heading"><div><span class="eyebrow">LA CARTA COMPLETA</span><h2>Encuentra algo<br><em>que te encante.</em></h2></div><p>Precios y disponibilidad actualizados desde nuestra carta. Si un producto tiene opciones, podrás elegirlas antes de agregarlo.</p></div><div class="menu-controls"><div class="category-strip" id="categories" role="group" aria-label="Filtrar categorías"></div><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg><input type="search" id="search" placeholder="Buscar en la carta" aria-label="Buscar productos"></label></div><div class="menu-status" id="menu-status" role="status">Cargando la carta…</div><div class="product-grid" id="products"></div></section>
+    <section class="second-feature"><img src="/images/roll-frito.jpg" alt="Roll frito de Dodo servido con salsa"><div><span class="eyebrow">TU PRÓXIMO FAVORITO</span><h2>Un poquito<br><em>más crujiente.</em></h2><p>De los clásicos a los rolls fritos: en Dodo hay una opción para cada antojo.</p><a href="#carta" class="button primary">Volver a la carta <span aria-hidden="true">↗</span></a></div></section>
+    <section class="visit" id="ubicacion"><span class="eyebrow">ENCUÉNTRANOS</span><h2>Nos vemos<br><em>en Dodo.</em></h2><p>Av. Miraflores 2331, Local 5, Servicentro Aramco · San Felipe, Chile</p><div class="visit-links"><a href="https://www.google.com/maps/search/?api=1&query=Av.+Miraflores+2331+Local+5+San+Felipe+Chile" target="_blank" rel="noopener noreferrer">Cómo llegar ↗</a><a href="https://www.instagram.com/sushi_dodo_san_felipe/" target="_blank" rel="noopener noreferrer">Instagram ↗</a></div></section>
+  </main>
+  <footer><img src="/images/logo.png" alt="Dodo Sushi & Bar"><p>Buenos rolls, buenos momentos.</p><span>© <span id="year"></span> Dodo Sushi & Bar · San Felipe</span></footer>
+  <div class="overlay" id="overlay" hidden></div>
+  <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title" hidden><div class="drawer-head"><div><span class="eyebrow">DODO SUSHI & BAR</span><h2 id="drawer-title">Tu pedido</h2></div><button class="icon-button" data-close aria-label="Cerrar carrito">×</button></div><div class="cart-items" id="cart-items"></div><div class="drawer-bottom"><div class="cart-total"><span>Total</span><strong id="cart-total">$0</strong></div><p>El despacho y la disponibilidad final se confirman por WhatsApp.</p><button class="button primary full" id="checkout" type="button">Enviar pedido por WhatsApp <span aria-hidden="true">↗</span></button></div></aside>
+  <div class="option-modal" id="option-modal" role="dialog" aria-modal="true" aria-labelledby="option-title" hidden><div class="modal-top"><span class="eyebrow">PERSONALIZA TU PEDIDO</span><button class="icon-button" data-close aria-label="Cerrar opciones">×</button></div><div id="option-content"></div></div>
+  <button class="mobile-cart" id="mobile-cart" type="button"><span>Ver mi pedido</span><strong id="mobile-cart-total">$0</strong></button>
+</body>
+</html>
